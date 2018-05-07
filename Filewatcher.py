@@ -94,7 +94,7 @@ def setup(filename):
         os.mkdir('Filewatcher')
     except:
         print('\aFailed! Check if the folder already exists.')
-    # Copy the file their
+    # Copy the file there
     shutil.copyfile(filename, 'Filewatcher/' + filename)
     print(' -- Done! ')
 
@@ -116,7 +116,7 @@ def show_Usage():
 
 def show_error():
     print(Fore.RED, end = '')
-    print('\aPlease pass proper arguements!')
+    print('\a Please pass proper arguements!')
     print(' For Help: python filewatcher.py -h ')
     print(Style.RESET_ALL, end = '')
 
