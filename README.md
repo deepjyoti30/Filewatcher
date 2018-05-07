@@ -15,7 +15,7 @@ Just copy 'Filewatcher.py' to your working folder. Run the following command to 
 python Filewatcher.py setup [sourcefile]
 ```
 
-Here sourcefile should be replaced by the name of your sourcefile.
+Here [sourcefile] should be replaced by the name of your sourcefile.
 
 *A folder named Filewatcher will be created. Please don't delete that folder.*
 

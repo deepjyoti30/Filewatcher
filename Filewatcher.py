@@ -7,8 +7,7 @@
 
 # It will compare two text files and check the differences in the files.
 # Two filenames would be taken as input.
-# One will be considered old and the other new
-# Lets test my filewatcher!
+# One will be considered old and the other new.
 
 from __future__ import print_function
 from colorama import init, Fore, Style
