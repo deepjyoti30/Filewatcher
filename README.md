@@ -13,7 +13,6 @@ Just copy 'Filewatcher.py' to your working folder. Run the following command to 
 
 ```
 python Filewatcher.py setup [sourcefile]
-
 ```
 
 Here sourcefile should be replaced by the name of your sourcefile.
@@ -24,14 +23,12 @@ After setup the program can be run anytime with the following command.
 
 ```
 python Filewatcher.py
-
 ```
 
 To learn about other available options please use the following command.
 
 ```
 python Filewatcher.py -h
-
 ```
 
 ## License
